@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+	<head>
+  		<title>Indian Cricket Team</title>
+  		<meta charset="utf-8">
+  		<meta property="og:title" content="Indian CRicket Team">
+  		<meta property="og:url" content="http://sinwar.github.io/india/"/>
+  		<meta property="og:image" content="http://tagorebhavan.in/publi/tb.jpg"/><!--here requires some chang-->
+  		<meta property="og:image:width" content="900" />
+  		<meta property="og:image:height" content="420" />
+  		<meta property="og:type" content="website">
+  		<meta property="og:description" content="Indian cricket team is one of the best cricket team around world.">
+ 		<meta property="fb:admins" content="100008360505466" />
+  		<meta name="description" content="Indian cricket team we love it.">
+  		<meta name="author" content="Sinwar Prem" />
+  		<meta name="viewport" content="width=device-width, initial-scale=1">
+  		<link rel="icon" type="image/jpg" sizes="16x16" href="publi/logo_1.jpg">
+  		<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  		<link rel="stylesheet" type="text/css" href="warden.css">
+  		<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+  		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  		<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+	</head>
+	<body>
+		<nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+              <div class="navbar-header">
+                <button type="button" data-target="#navbarCollapse" data-toggle="collapse" class="navbar-toggle">
+                	<span class="sr-only">Toggle navigation</span>
+                	<span class="icon-bar"></span>
+                	<span class="icon-bar"></span>
+                	<span class="icon-bar"></span>
+            	</button>
+              <a class="navbar-brand" href="#"><img src="logo.png"></a>
+              </div>
+            <div id="navbarCollapse" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav  navbar-right">
+                  <li class="active"><a href="http://tagoretime.herokuapp.com/" target="_blank">Timeline</a></li>
+                  <li class="dropdown">
+                    <a class="dropdown-toggle" data-toggle="dropdown" href="#">HMC
+                    <span class="caret"></span></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="publi/test.html">2015-2016</a></li>
+                      <li><a href="publi/test2.html">2014-2015</a></li>
+                    </ul>
+                  </li>
+                  <li><a href="publi/galery.html">Gallery</a></li>
+                  <li><a href="publi/inmates.html">Inmates</a></li>
+                  <li><a href="publi/login.html" target="_blank">Register</a></li>
+                  
+                   <li><a href="publi/faqs.html">FAQs</a></li>
+              </ul>
+            </div>
+        </div>
+    </nav>
+	</body>
+</html><!
